@@ -1,6 +1,6 @@
 {
   "name": "@rabinage/dependency-confusion",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "DON'T USE THIS! THIS IS FOR DEPENDENCY CONFUSION TESTING ONLY!",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rabinage/dependency-confusion/issues"
   },
-  "homepage": "https://github.com/rabinage/dependency-confusion#readme"
+  "homepage": "https://github.com/rabinage/dependency-confusion#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
