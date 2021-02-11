@@ -1,0 +1,19 @@
+{
+  "name": "@rabinage/dependency-confusion",
+  "version": "2.0.0",
+  "description": "DON'T USE THIS! THIS IS FOR DEPENDENCY CONFUSION TESTING ONLY!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabinage/dependency-confusion.git"
+  },
+  "author": "Robin Hansson <robin.hansson@visma.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabinage/dependency-confusion/issues"
+  },
+  "homepage": "https://github.com/rabinage/dependency-confusion#readme"
+}
